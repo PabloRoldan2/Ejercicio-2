@@ -1,2 +1,2 @@
-# Ejercicio-2
+# Laboratorio 2
 Ejercicio 2 de programación I
